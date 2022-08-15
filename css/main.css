@@ -417,7 +417,7 @@ border-left: 2px solid orangered;
   margin-left: -9px;
 }
 
-input {
+.range-input {
   -webkit-appearance: none;
   appearance: none;
   position: absolute;
